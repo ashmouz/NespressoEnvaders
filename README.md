@@ -9,5 +9,5 @@ Bugs:
 -Winners Tab not functional.
 -No boundaries, Player can move out of the screen.
 -FullScreen not supported.
--No End-Game because the game difficulty is not set yet.
+-No End-Game because the game difficulty has not been set yet.
 

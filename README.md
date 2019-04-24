@@ -1,2 +1,2 @@
-# NespressoEnvaders
-Nespresso Capsule Envaders Game
+# NespressoInvaders
+Nespresso Capsule Invaders Game
